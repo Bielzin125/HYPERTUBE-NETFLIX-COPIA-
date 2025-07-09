@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #252424;
+}
+
+header{
+    background-color: #050505a7;
+    width: 100vw;
+    position: absolute;
+    top: 0%;
+    color: white;
+    text-align: center;
+    filter: drop-shadow(5px 5px 0px rgba(54, 53, 53, 0.382));
+}
+
+#login-button{
+    background-color: #05050500;
+    color: white;
+    border: none;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+
+#login-button:hover{
+    transition: 0.1s;
+    font-size: 30px;
+}
