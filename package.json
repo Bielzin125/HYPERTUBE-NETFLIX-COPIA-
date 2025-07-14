@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mysql": "^2.18.1"
   },
   "name": "hypertube",
   "version": "1.0.0",
@@ -11,5 +12,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "type": "module"
 }
